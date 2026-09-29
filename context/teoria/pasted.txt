@@ -1,0 +1,52 @@
+Formulários inteligentes
+
+O formulário inteligente permite pedir nas páginas de conversão apenas o que você ainda não tem de informação dos seus Leads.
+
+Isso é importante porque evita que visitantes recorrentes abandonem sua página por não quererem preencher novamente o mesmo formulário — o que não faz sentido nem para ele nem para você, que receberia informações redundantes.
+
+📖 Leia também: Formulário inteligente: aumente suas taxas de conversão e obtenha mais dados dos seus Leads.
+Conversão social
+
+A conversão social é a possibilidade de o visitante baixar seus materiais ricos fazendo login com redes sociais.
+
+Trata-se de uma característica válida porque dispensa o preenchimento de um formulário, já que as informações das redes sociais são reaproveitadas. 
+
+Preencher campo por campo é uma objeção que faz muitas pessoas abandonarem suas Landing Pages, e a conversão social é uma forma de contorná-la.
+Integração com diferentes sistemas
+
+É interessante também que a ferramenta possibilite a integração com outros sistemas e ferramentas, para adicionar funcionalidades que não estão disponíveis nela. 
+
+Além disso, é importante que o código permita inserir outras funcionalidades, caso você deseje implementar funções avançadas. Sejam nativas ou inseridas via código, é importante contar com essa possibilidade.
+Parâmetros de SEO
+
+A edição de title, description, URL e outros parâmetros de otimização para os mecanismos de busca é importante para que suas Landing Pages sejam ranqueadas no Google e você seja mais facilmente encontrado.
+
+Da mesma forma, poder otimizar suas tags para redes sociais é um fator importante. Afinal, você não quer que o título, a imagem e a descrição de sua Landing Page não apareçam (ou apareçam errados) quando compartilhados no Facebook ou outra mídia social, certo?
+
+Por isso, ao escolher a ferramenta, certifique-se de que é possível configurar esses detalhes: title, description, slug, OG title, OG description e OG image.
+Estatísticas
+
+A ferramenta deve não só permitir a criação de uma Landing Page facilmente customizável e otimizada, como também facilitar a análise dos seus resultados.
+
+Para identificar pontos de melhoria, é importante saber suas taxas de conversão e pontos de tráfego para as conversões.
+
+Então, opte por ferramentas que mostram as estatísticas das suas páginas publicadas. O RD Station Marketing oferece, por exemplo, a conversão geral das suas Landing Pages, mas também uma análise de canais. Assim, você sabe de onde estão vindo suas visitas e em quais canais precisa investir mais.
+
+HTTPS
+
+O Google tem deixado mais claro que não gosta de sites inseguros, defendendo a adoção do HTTPS. Quando o endereço de um site começa com HTTPS e não com o anterior HTTP, isso significa que a página possui o certificado SSL/TLS.
+
+Esse certificado é responsável por validar o site e criptografar informações que o usuário envia ou recebe dele, o que torna o visitante mais protegido. No Google Chrome, sites que adotaram o recurso apresentam um cadeado nas informações do site, que podem ser consultadas no ícone que fica no início da barra de endereços.
+
+Já os que não adotaram podem exibir um aviso de site não seguro quando o usuário tenta acessar a página, principalmente aquelas que pedem informações pessoais, como email.
+
+E os problemas vão além disso, pois a tendência é que o buscador também priorize páginas seguras como fator de ranqueamento.
+Responsividade
+
+Suas Landing Pages devem ser criadas para funcionarem, também, em mobile. Como você viu anteriormente, celulares correspondem a boa parte do tráfego e devem ser considerados na hora de criar sua página. 
+
+Se os consumidores estão cada vez mais usando seus smartphones para pesquisar e fazer compras, você não pode ignorar isso.
+
+O Editor de Landing Pages do RD Station Marketing permite que você verifique como vai ficar a sua página em versão mobile, basta apertar um botão e conferir:
+
+O RD Station Marketing oferece todos esses requisitos para que você crie Landing Pages seguras, responsivas e que podem aumentar — e muito — o potencial de conversão da sua estratégia. Para conhecer a plataforma, clique aqui e faça um teste grátis!

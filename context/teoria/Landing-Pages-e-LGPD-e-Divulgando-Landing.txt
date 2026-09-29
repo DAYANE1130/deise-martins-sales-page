@@ -1,0 +1,178 @@
+Landing Pages e LGPD: o que considerar?
+
+Uma vez que as Landing Pages pedem dados dos usuários, você vai precisar estar em conformidade com a Lei Geral de Proteção de Dados (LGPD), que estabelece diretrizes e regulamentos para o tratamento e proteção de informações pessoais dos indivíduos. 
+
+Isso significa que, ao coletar dados por meio de suas páginas de destino, sua empresa precisa obter o consentimento adequado, garantir transparência nas práticas de coleta e adotar medidas de segurança para proteger as informações do usuário. 
+
+Para isso, você vai precisar de ferramentas que estejam em conformidade com a lei. Em nossas Landing Pages, por exemplo, você encontre as seguintes informações nos formulários, que indicam a consonância com a Lei:
+
+    “Ao preencher o formulário, concordo em receber comunicações de acordo com meus interesses”;
+    “Ao informar meus dados, eu concordo com a Política de privacidade”;
+    “Você pode alterar suas permissões de comunicação a qualquer tempo”.
+
+Veja o exemplo que aparece em nossa página Exemplos de Landing Page:
+
+Portanto, na ora de escolher sua ferramenta de Automação de Marketing, opte por uma que leve em consideração os seguintes pontos:
+
+    consentimento retroativo;
+    gerenciamento de cookies;
+    campos de proteção de dados;
+    proteção de dados no perfil do Lead;
+    bases legais em automação, importação e integração.
+
+Todos esses pontos são considerados pelo RD Station Marketing, permitindo que a captação de Leads esteja 100% em conformidade com a LGPD.
+Como criar a página de agradecimento (Thank you Page)?
+
+Uma Thank you Page pode ser definida como o estágio final do processo de conversão de visitantes em Leads. É a página que o visitante vê após converter em uma Landing Page.
+
+Portanto, se uma pessoa visualiza esta página, ela não é mais apenas um visitante desconhecido e sim um Lead, do qual sua empresa possui nome, email e quaisquer outros dados que tenham sido solicitados na Landing Page.
+
+Assim, independentemente do que foi ofertado para conversão — um eBook, seminário, demo de produto etc. — sua empresa deve agradecer ao Lead e dizer a ele o que acontecerá em seguida. Ou seja, se receberá o material por email ou a ligação de um representante de vendas, por exemplo.
+
+Essa instrução sobre o que acontecerá em seguida é o segundo objetivo principal de uma Thank you Page: suprir as expectativas do Lead. 
+
+Portanto, se sua empresa ofereceu, por exemplo, um eBook, coloque um link para download em um lugar bem acessível, que o Lead consiga visualizar e clicar sem ficar procurando pela página. O mesmo acontece para uma oferta mais direta, como uma demonstração de produto. Veja o exemplo de Thank You Page a seguir:
+
+Se for o caso, não se esqueça de dizer para o Lead que dentro de X horas alguém do comercial irá contatá-lo por meio do telefone, email, WhatsApp etc. 
+Como gerar mais oportunidades por meio de Thank you Pages?
+
+Também existem algumas formas simples de gerar mais oportunidades para seu negócio com a sua Thank you Page. Veja a seguir.
+TYP com ofertas relacionadas
+
+Uma maneira interessante de aproveitar a Thank you Page é colocar links para novas ofertas. É importante levar em consideração o nível do material (introdutório, intermediário ou avançado) e também o tema.
+
+Na Thank you Page do eBook 31 tipos de conteúdo que você pode produzir para seu blog, por exemplo, oferecemos materiais mais relacionados ao tema abordado e que mais podem interessar ao Lead.
+Thank you Page com CTA para trial ou levantada de mão
+
+Esse formato é uma boa opção para empresas que oferecem teste grátis ou quando sua equipe de Vendas está disponível para realizar um atendimento exclusivo, como um diagnóstico ou demonstração de ferramenta.
+
+Abaixo, veja como é possível aproveitar as duas opções apresentadas. Assim, o usuário poderá seguir com a opção que mais está alinhada a seu momento na jornada de compras.
+exemplo de thank you page com formulário
+
+Como divulgar uma Landing Page?
+
+Após ser criada, a Landing Page precisa ser promovida. Sendo assim, o primeiro passo é considerar os canais de tráfego de seu site e, a partir disso, direcionar sua estratégia de promoção para gerar Leads e aumentar sua base de potenciais clientes.
+
+Os canais mais importantes para a promoção de Landing Pages são: redes sociais, site/blog da sua empresa, Email Marketing, mídias pagas, co-marketing e SEO. 
+
+Uma dica importante é focar sua divulgação naqueles canais que realmente trazem mais tráfego para suas páginas. Pense nisso!
+Redes sociais
+
+Na hora de fazer a divulgação das LP, aproveite as redes sociais em que sua empresa está presente para a geração de Leads, que pode ser o Facebook, Twitter, LinkedIn, Instagram, Tik Tok etc.
+
+Lembre-se que todas essas redes possuem pessoas que podem se interessar por sua oferta.
+
+No Instagram, por exemplo, você pode utilizar os Stories para criar uma publicação com um link para sua LP. Já no Linkedin, uma boa saída pode ser publicar a Landing Page em algum grupo, além da página da sua empresa, é claro.
+
+Veja um exemplo:
+exemplo de post no LinkedIn
+Site/blog
+
+O site e o blog da sua marca são canais que podem trazer ótimos resultados para a sua campanha. Aproveite o tráfego existente e divulgue sua Landing Page nas páginas mais acessadas para gerar Leads e otimizar a conversão.
+
+Veja um exemplo de divulgação no nosso blog. Nele, há um banner logo abaixo do título de um blog post, que direciona para a LP do RD Explora:
+Email Marketing
+
+E quem falou que o Email Marketing caiu em desuso? Saiba que ele é um recurso excelente para a divulgação da sua Landing Page, permitindo distribuir conteúdo relevante para sua base de contatos. E o mesmo vale para os disparos no WhatsApp.
+
+Assim, é possível fortalecer o relacionamento, educar o público e nutrir seus Leads. Além disso, você também pode enviar um email para divulgar uma nova oferta ou novo material e monitorar seu desempenho. 
+
+Uma dica para potencializar os resultados é trabalhar com grupos segmentados, considerando perfis e interesses para realizar uma comunicação personalizada.
+
+Veja um exemplo:
+Mídias pagas
+
+As mídias pagas também são canais que podem ajudar muito no impulsionamento do seu negócio, podendo ampliar a divulgação da Landing Page para pessoas que têm interesse na sua oferta e que, muitas vezes, nem conhecem o seu produto ou serviço.
+
+Uma das ferramentas mais usadas é o Google Ads, que possibilita a segmentação de visitantes qualificados, que estão em busca de uma solução ou conteúdo para suas necessidades ou interesses. 
+
+No Facebook Ads, você poderá construir o seu público por meio de uma segmentação detalhada, levando em consideração as características, preferências e interesses da sua persona. 
+
+Veja abaixo um exemplo de anúncio de Facebook Lead Ads:
+exemplo de anúncio no Facebook Lead Ads
+Por que usar Landing Pages em campanhas de mídia paga?
+
+Segundo o Panorama de Marketing 2023, realizado pela RD Station, entre as estratégias de Marketing mais usadas pelos times estão a mídia paga e os links patrocinados. 
+
+A mídia paga é um canal que pode trazer ótimos resultados para a sua campanha. Isso porque os anúncios pagos podem ser segmentados, o que aumenta a sua eficácia.
+
+Diversificar as campanhas também abre a possibilidade de inovar. No caso das mídias pagas, usar uma oferta específica e disponibilizá-la por meio de uma Landing Page é fundamental para garantir o retorno sobre o investimento (ROI).
+
+Afinal de contas, na Landing Page, o visitante terá duas opções: preencher o formulário em troca da oferta ou sair. 
+
+O fato de ter poucas opções aumenta muito a probabilidade de o visitante realizar a conversão, o que já não acontece se usarmos um link de site institucional, que terá muitos botões e possibilidades de clique.
+
+Mas se engana quem pensa então que os investimentos devem ser feitos em peso de uma hora para outra, nada disso!
+
+É recomendável começar com um valor pequeno para fazer análises de curto prazo. E, após as análises, verificar se há potencial para colocar mais verba.
+
+Por fim, não esqueça que as mídias pagas estão sempre mudando: o lance de leilão fica caro, concorrentes estão presentes, novos formatos sempre aparecem e, se suas campanhas não estiverem atualizadas, você pode estar perdendo resultados.
+Co-marketing
+
+Já percebeu que alguns materiais da RD Station envolve outras empresas? Um exemplo é este eBook “Gestão produtiva de Marketing Digital“, feito em parceria com a Runrun.it.
+
+Na verdade, esses materiais fazem parte da nossa estratégia de co-marketing (ou Marketing compartilhado), que ocorre quando duas ou mais empresas, que possuem o mesmo público-alvo, juntam esforços para planejar, desenvolver e lançar um ativo.
+
+Assim, conseguem um impacto que não conseguiriam ter sozinhas. Na prática, vale a pena procurar parcerias para lançar materiais com empresas que sejam complementares a seu negócio. Dessa forma, você acaba alcançando um público que, sozinho, levaria mais tempo para conquistar.
+SEO 
+
+Na hora de divulgar a sua Landing Page, há um outro meio que se destaca muito na hora de ampliar o alcance da sua página: os motores de busca. 
+
+Isso porque, esses canais oferecem tráfego qualificado e sem custos, no momento certo em que a pessoa está buscando pela informação.
+
+Otimizar sua Landing Page com as técnicas de SEO — e não uma página do seu site ou blog — para estar entre os primeiros resultados do Google significa que o visitante precisará percorrer menos passos até se converter e se tornar um Lead.
+
+Otimizar um artigo de blog pode ser ligeiramente mais fácil, mas oferecer diretamente um conteúdo rico pode aumentar bastante a sua taxa de conversão! Veja algumas dicas a seguir.
+
+📖 Leia também: SEO para Landing Pages: dicas e exemplos de otimização
+Escolha bem sua palavra-chave
+
+Ao fazer SEO para a Landing Page, o primeiro passo é a escolha de uma palavra-chave principal, relacionada à sua oferta.
+
+Lembrando que essa definição dependerá da etapa da jornada de compra, que é o foco da sua Landing Page. Para atrair visitantes nas primeiras etapas, você pode acrescentar à sua palavra-chave termos como:
+
+    Dicas
+    Guia
+    Aprender
+    Como/Como fazer
+
+Caso o objetivo seja atrair visitantes que estejam considerando uma solução e prestes a decidir, a sugestão é ter em sua palavra-chave termos como:
+
+    Comprar
+    Preço
+    Desconto
+    Melhor opção de
+    Comparativo
+
+Crie um bom snippet
+
+Já ouviu falar sobre o snippet? Você já notou que, em certas buscas feitas no Google, surge um quadro apresentando uma breve visão do conteúdo desejado?
+
+Pois bem! Esse tipo de resultado é denominado featured snippet, também conhecido como a posição zero do Google, e costuma mostrar receitas, tutoriais, tabelas, definições detalhadas, entre outros.
+
+A ideia do snippet é apresentar na página de resultados de busca um recorte objetivo do conteúdo de cada resultado. Os três elementos principais de um snippet são:
+
+    Título (Page title)
+    URL
+    Meta description
+
+Saiba que um bom snippet deve ser convidativo e trazer informações objetivas a respeito do conteúdo que o visitante encontrará na página.
+
+exemplo de snippet de landing page
+Tenha um conteúdo envolvente
+
+No conteúdo da sua Landing Page, é importante utilizar a palavra-chave, principalmente no cabeçalho e, pelo menos, uma vez no conteúdo.
+
+Manter a atratividade da primeira dobra, levando em conta a concisão, é importante; porém, não significa que você não precise de mais texto. 
+
+É possível trazer informações complementares nas próximas dobras, usando a palavra-chave quando couber, quebrando o texto em tópicos e intertítulos, que permitem que sua Landing Page tenha um bom ranqueamento no Google e demais motores de busca.
+Dê atenção às imagens
+
+Para otimizar a sua LP, é essencial usar também uma imagem principal que tenha grande apelo de conversão. Se possível, o foco deve ser no benefício que a oferta rica proporcionará ao seu visitante.
+Use templates amigáveis para dispositivos móveis
+
+Para melhorar os resultados, é imprescindível usar templates de Landing Page adaptados para dispositivos móveis. Esse cuidado é importante porque, hoje em dia, muitas pessoas acessam a internet usando celulares. 
+
+Inclusive, de acordo com a pesquisa TIC Domicílios, 62% dos usuários da internet no Brasil só acessam a rede pelo aparelho celular.
+
+Criar e divulgar uma Landing Page pode parecer trabalhoso, mas existem ferramentas que facilitam esse processo. Um exemplo é o próprio RD Station Marketing, que disponibiliza modelos editáveis de LP, além de permitir o envio automático de emails e a gestão completa dos Leads gerados com a sua oferta. Comece agora o seu teste grátis para saber mais!
