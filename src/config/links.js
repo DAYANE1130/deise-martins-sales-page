@@ -7,7 +7,6 @@ export const links = {
   vipGroup: 'https://chat.whatsapp.com/FR3kHLSGMfaILcm4Jy7z9m?s=cl&p=i&mlu=0',
   recalibracao: '',
   denteLeao: '',
-  tarot: '',
   atendimentos: '#atendimentos',
 }
 

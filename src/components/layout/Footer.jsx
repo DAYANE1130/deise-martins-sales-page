@@ -8,7 +8,6 @@ export function Footer() {
         <nav aria-label="Redes sociais">
           <a href={links.instagram} target="_blank" rel="noreferrer">Instagram</a>
           <a href={links.youtube} target="_blank" rel="noreferrer">YouTube</a>
-          <a href={links.whatsapp} target="_blank" rel="noreferrer">WhatsApp</a>
         </nav>
       </div>
     </footer>

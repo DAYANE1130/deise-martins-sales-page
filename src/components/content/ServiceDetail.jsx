@@ -1,10 +1,6 @@
-import { links, whatsappLink } from '../../config/links.js'
-import { Button } from '../ui/Button.jsx'
 import { SectionHeading } from '../ui/SectionHeading.jsx'
 
 export function ServiceDetail({ service, alternate = false }) {
-  const paymentLink = links[service.paymentKey]
-
   return (
     <section className={`detail-section ${alternate ? 'detail-section--tinted' : ''}`} id={service.id}>
       <div className="container detail-section__grid">
@@ -22,10 +18,6 @@ export function ServiceDetail({ service, alternate = false }) {
               <strong>{step.note}</strong>
             </div>
           ))}
-          <div className="button-group">
-            <Button href={paymentLink} disabled={!paymentLink}>Comprar</Button>
-            <Button href={whatsappLink(service.message)} variant="secondary" target="_blank" rel="noreferrer">Falar comigo</Button>
-          </div>
         </div>
       </div>
     </section>

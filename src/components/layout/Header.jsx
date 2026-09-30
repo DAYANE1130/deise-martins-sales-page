@@ -1,12 +1,13 @@
 import { useEffect, useState } from 'react'
-import { links, whatsappLink } from '../../config/links.js'
+import { Link } from 'react-router-dom'
+import { whatsappLink } from '../../config/links.js'
 import { Button } from '../ui/Button.jsx'
 
 const navigation = [
-  ['Atendimentos', '#atendimentos'],
-  ['Sobre Deise', '#sobre'],
-  ['Grupo VIP', '#grupo-vip'],
-  ['Dúvidas', '#duvidas'],
+  ['Atendimentos', '/#atendimentos'],
+  ['Sobre Deise', '/#sobre'],
+  ['Grupo VIP', '/#grupo-vip'],
+  ['Dúvidas', '/#duvidas'],
 ]
 
 export function Header() {
@@ -21,14 +22,14 @@ export function Header() {
   return (
     <header className="site-header">
       <div className="container site-header__content">
-        <a className="brand" href="#inicio" aria-label="Deise Martins — voltar ao início">Deise Martins - Mestra Espiritual</a>
+        <Link className="brand" to="/#inicio" aria-label="Deise Martins — voltar ao início">Deise Martins - Mestra Espiritual</Link>
         <button className="menu-toggle" onClick={() => setOpen((value) => !value)} aria-expanded={open} aria-controls="main-navigation">
           <span className="sr-only">{open ? 'Fechar' : 'Abrir'} menu</span><span aria-hidden="true">☰</span>
         </button>
-        <nav className={`site-navigation ${open ? 'site-navigation--open' : ''}`} id="main-navigation" aria-label="Navegação principal">
-          {navigation.map(([label, href]) => <a href={href} key={href} onClick={() => setOpen(false)}>{label}</a>)}
+        {/* <nav className={`site-navigation ${open ? 'site-navigation--open' : ''}`} id="main-navigation" aria-label="Navegação principal">
+          {navigation.map(([label, to]) => <Link to={to} key={to} onClick={() => setOpen(false)}>{label}</Link>)}
           <Button href={whatsappLink('Olá! Gostaria de agendar um atendimento e receber mais informações.')} className="header-cta" target="_blank" rel="noreferrer">Agendar</Button>
-        </nav>
+        </nav> */}
       </div>
     </header>
   )
